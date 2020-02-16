@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//fbe7236.github.io/reactkurs_monsters/static/css/main.5b1013f7.chunk.css",
+    "main.js": "/https//fbe7236.github.io/reactkurs_monsters/static/js/main.22abcfe3.chunk.js",
+    "main.js.map": "/https//fbe7236.github.io/reactkurs_monsters/static/js/main.22abcfe3.chunk.js.map",
+    "runtime-main.js": "/https//fbe7236.github.io/reactkurs_monsters/static/js/runtime-main.36a1502d.js",
+    "runtime-main.js.map": "/https//fbe7236.github.io/reactkurs_monsters/static/js/runtime-main.36a1502d.js.map",
+    "static/js/2.1f3314c8.chunk.js": "/https//fbe7236.github.io/reactkurs_monsters/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "/https//fbe7236.github.io/reactkurs_monsters/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "/https//fbe7236.github.io/reactkurs_monsters/index.html",
+    "precache-manifest.bf2a413d8261f15377af38455555d86a.js": "/https//fbe7236.github.io/reactkurs_monsters/precache-manifest.bf2a413d8261f15377af38455555d86a.js",
+    "service-worker.js": "/https//fbe7236.github.io/reactkurs_monsters/service-worker.js",
+    "static/css/main.5b1013f7.chunk.css.map": "/https//fbe7236.github.io/reactkurs_monsters/static/css/main.5b1013f7.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "/https//fbe7236.github.io/reactkurs_monsters/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36a1502d.js",
+    "static/js/2.1f3314c8.chunk.js",
+    "static/css/main.5b1013f7.chunk.css",
+    "static/js/main.22abcfe3.chunk.js"
+  ]
+}
